@@ -1,5 +1,5 @@
 <h1 align='center'>
-  Hi there <img style="vertical-align: -30%" src="https://media.giphy.com/media/KGMzZvWa5su2O5LCVR/giphy.gif" width="50" height="50"> I'm Manish verma 👨
+  Hi there <img style="vertical-align: -30%" src="https://media.giphy.com/media/KGMzZvWa5su2O5LCVR/giphy.gif" width="50" height="50"> I'm Manish Verma 👨
 </h1>
 
 <h3 align='center'>
@@ -11,6 +11,11 @@
 </div>
 <br/>
 
+## 🔗 Let's Connect:
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mkvmkverma/)
+
+## 📊 Stats:
+<div align="center"><img src="https://github-readme-stats-mu-dusky.vercel.app/api?username=mkv-mkverma&show_icons=true&theme=radical&count_private=true&include_all_commits=true"&custom_title="My Stats" align = "center"/></div>
 <!--
 **mkv-mkverma/mkv-mkverma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
