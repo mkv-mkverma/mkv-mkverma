@@ -54,10 +54,6 @@
 ## 📊 Stats:
 <div align="center"><img src="https://github-readme-stats-mu-dusky.vercel.app/api?username=mkv-mkverma&show_icons=true&theme=radical&count_private=true&include_all_commits=true"&custom_title="My Stats" align = "center"/></div>
 
-## 📊 Top Languages:
-<div align="center">(https://github-readme-stats.vercel.app/api/top-langs/?username=mkv-mkverma&langs_count=8&layout=compact&theme=gruvbox)](https://github.com/mkv-mkverma/github-readme-stats)</div>
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mkv-mkverma&langs_count=8&layout=compact&theme=gruvbox)](https://github.com/mkv-mkverma/github-readme-stats)
 
 <!--
 **mkv-mkverma/mkv-mkverma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
