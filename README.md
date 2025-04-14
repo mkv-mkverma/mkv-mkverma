@@ -15,7 +15,7 @@
 - 💬 Ask me about **Frontend Development.**
 - 🚀 Love to talk about **Angular, JavaScript, ReactJS ,frontenddevelopment, typescript, and SCSS**
 - 📫 How to reach me: **mailtomanishverma.cse@gmail.com**
-- 📄 Know about my experiences [Download resume from here](https://drive.google.com/file/d/1sInhNFXOQNfKI5_v5FPIu1MzvwCveZ4C/view?usp=sharing)
+- 📄 Know about my experiences [Download resume from here](https://drive.google.com/file/d/1O5T_KUvbzUPfU2KW5kzYEWDI6X6xVux1/view?usp=drive_link)
 
 ## 🔗 Let's Connect:
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mkvmkverma/)
