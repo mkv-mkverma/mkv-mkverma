@@ -156,13 +156,12 @@ I'm currently deepening my knowledge in:
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Trophies:
+<a href="https://github.com/ryo-ma/github-profile-trophy"></a>
+<img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=mkv-mkverma&row=4&theme=onedark&no-frame=true" />
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=mkv-mkverma&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" />
-
-</div>
+## 📊 Stats:
+<div align="center"><img src="https://github-readme-stats-mu-dusky.vercel.app/api?username=mkv-mkverma&show_icons=true&theme=radical&count_private=true&include_all_commits=true"&custom_title="My Stats" align = "center"/></div>
 
 ---
 
