@@ -1,71 +1,199 @@
-<h1 align='center'>
-  Hi there <img style="vertical-align: -30%" src="https://media.giphy.com/media/KGMzZvWa5su2O5LCVR/giphy.gif" width="50" height="50"> I'm Manish Verma 👨
-</h1>
+# 👋 Hi, I'm Manish Verma
 
-<h3 align='center'>
-  A passionate frontend developer from India <img style="vertical-align: bottom" src="https://static.vecteezy.com/system/resources/previews/011/571/519/original/circle-flag-of-india-free-png.png" width="25">
-</h3>
+### Senior Software Engineer · Frontend Lead
 
-<div align='center'>
-  <img src="https://komarev.com/ghpvc/?username=mkv-mkverma&label=Profile%20views&color=0e75b6&style=flat" alt="mkv-mkverma" />
+**Angular · React · TypeScript · JavaScript · UI Architecture · Micro Frontends**
+
+📍 Bangalore, India 🇮🇳
+
+I build scalable, maintainable and high-performance web applications with a strong focus on **frontend architecture, reusable components, state management and developer experience**.
+
+With **10+ years of frontend experience**, my primary expertise is Angular, while I also work with React and modern JavaScript/TypeScript ecosystems.
+
+---
+
+## 🚀 What I Do
+
+* 🏗️ Design scalable **frontend architectures**
+* 🅰️ Build enterprise applications with **Angular**
+* ⚛️ Develop modern applications with **React**
+* 🧩 Design **Micro Frontend (MFE)** architectures
+* 📦 Build reusable **UI/component libraries**
+* 🔄 Work with **RxJS, state management and reactive patterns**
+* ⚡ Focus on performance, maintainability and clean code
+* 🧪 Improve code quality through **unit testing & SonarQube**
+* 🔧 Work with modern frontend build and CI/CD tooling
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+<p>
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
+
+### Architecture & State
+
+<p>
+<img src="https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white"/>
+<img src="https://img.shields.io/badge/NgRx-BA2BD2?style=for-the-badge&logo=ngrx&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Micro%20Frontends-111827?style=for-the-badge"/>
+</p>
+
+### Styling & UI
+
+<p>
+<img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/PrimeNG-06B6D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AG%20Grid-1F2937?style=for-the-badge"/>
+</p>
+
+### Engineering & Tools
+
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+<img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+</p>
+
+---
+
+## 🧠 Currently Exploring
+
+```text
+Angular Architecture
+        ↓
+Micro Frontends
+        ↓
+React & Advanced Patterns
+        ↓
+Frontend System Design
+        ↓
+Performance & Scalability
+        ↓
+Clean Code & Engineering Practices
+```
+
+I'm currently deepening my knowledge in:
+
+* Advanced Angular
+* Micro Frontend architecture
+* Frontend system design
+* React architecture
+* JavaScript internals
+* TypeScript
+* RxJS
+* Performance optimization
+* Testing & code quality
+
+---
+
+## 💻 Coding Profiles
+
+<p>
+<a href="https://leetcode.com/manish-kumar-verma">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://www.hackerrank.com/manishverma_cse">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+</p>
+
+---
+
+## 🔗 Let's Connect
+
+<p>
+<a href="https://www.linkedin.com/in/mkvmkverma/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:manishverma.cse@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/mkv-mkverma">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+📄 **[View My Resume](https://drive.google.com/file/d/12YfkW9tXwfKsY1uUayVuYt48D5T7J6xD/view)**
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=mkv-mkverma&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkv-mkverma&layout=compact&theme=tokyonight&hide_border=true" />
+
 </div>
-<br/>
 
-- 🌱 I’m currently learning: **React js from [Namaste React Live Course](https://learn.namastedev.com/courses/namaste-react-live) by [Akshay Saini](https://www.linkedin.com/in/akshaymarch7/)**
-- 💬 Ask me about **Frontend Development.**
-- 🚀 Love to talk about **Angular, JavaScript, ReactJS ,frontenddevelopment, typescript, and SCSS**
-- 📫 How to reach me: **mailtomanishverma.cse@gmail.com**
-- 📄 Know about my experiences [Download resume from here](https://drive.google.com/file/d/12YfkW9tXwfKsY1uUayVuYt48D5T7J6xD/view?usp=drive_link)
+---
 
-## 🔗 Let's Connect:
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mkvmkverma/)
-[![instagram](https://img.shields.io/badge/Instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mkv.mkverma/)
+## 🔥 Contribution Streak
 
-## ‍💻 Coding Profile:
-[![leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://www.leetcode.com/manish-kumar-verma)
-[![hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/manishverma_cse)
+<div align="center">
 
-## ⚙ Languages and Tools:
-[![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3.org/html/)
-[![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com/css/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![reactjs](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
-[![angular](https://img.shields.io/badge/Angular-20232A?style=for-the-badge&logo=angular&logoColor=e23237)](https://angular.io/)
-[![reactrouter](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)](https://reactrouter.com/en/main)
-[![reduxjs](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org)
-[![webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white)](https://webpack.js.org)
-[![babeljs](https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=white)](https://babeljs.io/)
-[![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com)
-[![sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com)
-[![tailwindcss](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-[![material ui](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)](https://mui.com/)
-[![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://www.netlify.com/)
-[![heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://www.heroku.com/)
-[![github pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)](https://pages.github.com/)
-[![visualstudio](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+<img src="https://streak-stats.demolab.com?user=mkv-mkverma&theme=tokyonight&hide_border=true" />
 
-## 🏆 Trophies:
-<a href="https://github.com/ryo-ma/github-profile-trophy"></a>
-<img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=mkv-mkverma&row=4&theme=onedark&no-frame=true" /> 
+</div>
 
-## 📊 Stats:
-<div align="center"><img src="https://github-readme-stats-mu-dusky.vercel.app/api?username=mkv-mkverma&show_icons=true&theme=radical&count_private=true&include_all_commits=true"&custom_title="My Stats" align = "center"/></div>
+---
 
+## 🏆 GitHub Trophies
 
-<!--
-**mkv-mkverma/mkv-mkverma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+<img src="https://github-profile-trophy.vercel.app/?username=mkv-mkverma&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+## 📌 Featured Projects
+
+> 🚧 I'm continuously building and improving projects around Angular, React, TypeScript and frontend architecture.
+
+### 🛒 Micro Frontend E-Commerce
+
+**Angular · Micro Frontends · Module Federation · RxJS**
+
+A practical Micro Frontend application demonstrating independent applications working together through a host/shell architecture.
+
+### 🧩 Frontend Architecture
+
+**Angular · TypeScript · RxJS · Reusable Components**
+
+Experiments and examples covering scalable Angular architecture, routing, guards, resolvers, state management and reusable UI patterns.
+
+### ⚛️ React Experiments
+
+**React · JavaScript · TypeScript**
+
+Hands-on implementations exploring React architecture, hooks, state management and frontend machine-coding problems.
+
+---
+
+<div align="center">
+
+### 💡 "Build it simple. Make it scalable. Keep it maintainable."
+
+**Thanks for visiting my profile! ⭐**
+
+</div>
