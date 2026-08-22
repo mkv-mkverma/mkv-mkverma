@@ -130,7 +130,7 @@ I'm currently deepening my knowledge in:
 </a>
 </p>
 
-📄 **[View My Resume](https://drive.google.com/file/d/12YfkW9tXwfKsY1uUayVuYt48D5T7J6xD/view)**
+📄 **[View My Resume]([https://drive.google.com/file/d/12YfkW9tXwfKsY1uUayVuYt48D5T7J6xD/view](https://drive.google.com/file/d/1mEtd3E4BDWVVFtBWYH6h4qQ2B8d7WBsq/view?usp=drive_link))**
 
 ---
 
@@ -150,21 +150,9 @@ I'm currently deepening my knowledge in:
 
 </div>
 
----
-
-## 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=mkv-mkverma&theme=tokyonight&hide_border=true" />
-
-</div>
 
 ---
 
-## 🏆 Trophies:
-<a href="https://github.com/ryo-ma/github-profile-trophy"></a>
-<img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=mkv-mkverma&row=4&theme=onedark&no-frame=true" />
 
 ## 📊 Stats:
 <div align="center"><img src="https://github-readme-stats-mu-dusky.vercel.app/api?username=mkv-mkverma&show_icons=true&theme=radical&count_private=true&include_all_commits=true"&custom_title="My Stats" align = "center"/></div>
