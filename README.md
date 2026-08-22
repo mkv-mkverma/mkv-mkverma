@@ -130,7 +130,7 @@ I'm currently deepening my knowledge in:
 </a>
 </p>
 
-📄 **[View My Resume]([https://drive.google.com/file/d/1mEtd3E4BDWVVFtBWYH6h4qQ2B8d7WBsq/view?usp=drive_link]))**
+📄 **[View My Resume](https://drive.google.com/file/d/1mEtd3E4BDWVVFtBWYH6h4qQ2B8d7WBsq/view?usp=drive_link)**
 
 ---
 
