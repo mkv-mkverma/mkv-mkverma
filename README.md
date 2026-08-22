@@ -130,26 +130,7 @@ I'm currently deepening my knowledge in:
 </a>
 </p>
 
-📄 **[View My Resume]([https://drive.google.com/file/d/12YfkW9tXwfKsY1uUayVuYt48D5T7J6xD/view](https://drive.google.com/file/d/1mEtd3E4BDWVVFtBWYH6h4qQ2B8d7WBsq/view?usp=drive_link))**
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img
-  height="180"
-  src="https://github-readme-stats.vercel.app/api?username=mkv-mkverma&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true"
-/>
-
-<img
-  height="180"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkv-mkverma&layout=compact&theme=default&hide_border=true"
-/>
-
-</div>
-
+📄 **[View My Resume]([https://drive.google.com/file/d/1mEtd3E4BDWVVFtBWYH6h4qQ2B8d7WBsq/view?usp=drive_link]))**
 
 ---
 
